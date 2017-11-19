@@ -8,5 +8,6 @@ $config['recaptcha_secret_key'] = 'XXXXXXXXXXXXXXXXXXXXYOUR SITE KEY HEREXXXXXXX
 // reCAPTCHA supported 40+ languages listed here:
 // https://developers.google.com/recaptcha/docs/language
 $config['recaptcha_lang'] = 'en';
+//hello world
 
 /* Location: ./application/config/recaptcha.php */
